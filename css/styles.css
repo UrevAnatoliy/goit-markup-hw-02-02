@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto" sans-serif;
+    font-family: Roboto, sans-serif;
     color: #434455;
     background-color: #fff;
 }
@@ -23,7 +23,7 @@ color: #4d5ae5;
 }
 
 .logo-part {
-    color: 2E2F42;
+    color: #2E2F42;
 }
 
 .nav-link {
@@ -37,13 +37,15 @@ color: #4d5ae5;
 
 .nav-link:hover,
 .nav-link:focus{
-    color: #404bbf;}
+    color: #404bbf;
+}
 
 .address {
     font-style: normal;
 }
 
-.address-link {
+.address-link
+.address-linkhover:focus {
 font-size: 16px;
 line-height: 24px; 
 line-height: 1.5;
@@ -52,26 +54,56 @@ color: #434455;
 }
 
 .address-link:hover,
-.address-link:focus{
-    color: 404BBF;
+.address-link:focus {
+ color: #2E2F42;
 }
 
 .hero {
-  color: 2E2F42;  
+background-color: #2E2F42;  
+font-weight: 700;
+font-size: 56px;
+line-height: 60px; 
+line-height: 1.07143;
+letter-spacing: 0.02em;
+text-align: center;
+color: #fff;
 }
 
-.hero-button{
+.hero-button {
 font-weight: 500;
 font-size: 16px;
 line-height: 24px; 
 line-height: 1.5;
 letter-spacing: 0.04em;
-color: 404BBF;
+color: #404BBF;
 }
 
-.hero-button,
+.hero-button {
+color: #4D5AE5;
+border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+}
+
 .hero-button-link:focus {
-color: 4D5AE5;
+background-color: #4d5ae5; 
+border-radius: 4px;
+padding: 16px 32px;
+width: 169px;
+height: 56px;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
 }
 
 
@@ -96,11 +128,10 @@ color: 4D5AE5;
 }
 
 .sellers-title {
-    font-family: Raleway;
     font-weight: 700;
     font-size: 36px;
     line-height: 40px; 
-    line-height: 0.03;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -108,42 +139,38 @@ color: 4D5AE5;
 
 
 
-.reviews-subtitle {
-font-family: Raleway, sans-serif;
-font-weight: 500;
-font-size: 20px;
-line-height: 24px; 
-line-height: 1.2;
-letter-spacing: 0.02em;
-text-align: center;
-color: #2e2f42;
+reviews-subtitle {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px; 
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
 }
 
 .reviews-item-text {
-font-family: Raleway, sans-serif;
-font-weight: 400;
-font-size: 16px;
-line-height: 24px; 
-line-height: 1.5;
-letter-spacing: 0.02em;
-text-align: center;
-color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px; 
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #434455;
 }
 
 
 .reviews-subtitle {
-font-family: Raleway, sans-serif;
 font-weight: 700;
 font-size: 36px;
 line-height: 40px; 
-line-height: 0.03;
+line-height: 1.1;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
 
 }
 .reviews-item-text {
-font-family: Raleway;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px; 
@@ -153,21 +180,19 @@ color: #434455;
 }
 
 .logo {
-    font-family: Raleway, sans-serif;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
-letter-spacing: 0.03em;
+letter-spacing: 1.1em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
 
 .logo-part {
-    color: 2E2F42;
+    #color: 2E2F42;
 }
 
 .footer-text {
-font-family: Raleway, sans-serif;
 font-weight: 400;
 font-size: 16px;
 line-height: 24px; 
