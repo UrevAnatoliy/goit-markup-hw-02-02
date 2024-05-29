@@ -94,3 +94,85 @@ color: 4D5AE5;
     letter-spacing: 0.02em;
     color: #434455;
 }
+
+.sellers-title {
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px; 
+    line-height: 0.03;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+
+
+.reviews-subtitle {
+font-family: Raleway, sans-serif;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px; 
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+.reviews-item-text {
+font-family: Raleway, sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
+
+
+.reviews-subtitle {
+font-family: Raleway, sans-serif;
+font-weight: 700;
+font-size: 36px;
+line-height: 40px; 
+line-height: 0.03;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+
+}
+.reviews-item-text {
+font-family: Raleway;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+.logo {
+    font-family: Raleway, sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+
+.logo-part {
+    color: 2E2F42;
+}
+
+.footer-text {
+font-family: Raleway, sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+}
+
