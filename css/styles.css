@@ -44,8 +44,8 @@ color: #4d5ae5;
     font-style: normal;
 }
 
-.address-link
-.address-linkhover:focus {
+.address-link {
+ font-weight: 400;
 font-size: 16px;
 line-height: 24px; 
 line-height: 1.5;
@@ -55,11 +55,19 @@ color: #434455;
 
 .address-link:hover,
 .address-link:focus {
- color: #2E2F42;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #404bbf;
 }
 
 .hero {
-background-color: #2E2F42;  
+background-color: #2E2F42; 
+}
+
+.hero-title { 
 font-weight: 700;
 font-size: 56px;
 line-height: 60px; 
@@ -70,22 +78,12 @@ color: #fff;
 }
 
 button {
-border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-background: #404bbf;
+color: #4D5AE5;
 text-align: center;
 }
 
 .hero-button {
-color: #4D5AE5;
-border-radius: 4px;
-padding: 16px 32px;
-width: 169px;
-height: 56px;
-font-weight: 500;
+background: #404bbf;
 font-size: 16px;
 line-height: 24px; 
 line-height: 1.5;
@@ -141,25 +139,45 @@ color: #fff;
 
 
 reviews-subtitle {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 24px; 
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px; 
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
+
+
+reviews-subtitle :hover {
+font-weight: 500;
+font-size: 20px;
+line-height: 24px; 
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
 }
 
 .reviews-item-text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 24px; 
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #434455;
+font-weight: 400;
+font-size: 16px;
+Line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
 }
 
+.reviews-item-text :hover {
+font-weight: 400;
+font-size: 16px; 
+line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+text-align: center;
+color: #434455;
+}
 
 .reviews-subtitle {
 font-weight: 500;
@@ -167,10 +185,29 @@ font-size: 20px;
 line-height: 24px; 
 line-height: 1.2;
 letter-spacing: 0.02em;
-color: #2E2F42;
+color: #2e2f42;
+}
+
+.reviews-subtitle :hover{
+font-weight: 500;
+font-size: 20px;
+line-height: 24px; 
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
 
 .reviews-item-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 24px; 
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+
+
+.reviews-item-text :hover {
 font-weight: 400;
 font-size: 16px;
 line-height: 24px; 
@@ -183,7 +220,7 @@ color: #434455;
 font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
-letter-spacing: 1.1em;
+letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;
 }
