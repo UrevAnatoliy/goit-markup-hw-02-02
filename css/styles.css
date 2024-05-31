@@ -26,6 +26,7 @@ color: #4d5ae5;
 font-weight: 400;
 font-size: 12px;
 text-align: right;
+color: #2e2f42;
 }
 
 .nav-link {
@@ -80,7 +81,7 @@ color: #fff;
 }
 
 button {
-color: #4D5AE5;
+color:  #4d5ae5;
 text-align: center;
 }
 
@@ -154,7 +155,7 @@ reviews-subtitle :hover {
 font-weight: 500;
 font-size: 20px;
 line-height: 24px; 
-line-height: 1.1;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
