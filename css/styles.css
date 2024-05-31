@@ -14,23 +14,14 @@ ul,ol {
 
 .logo {
 font-family: Raleway, sans-serif;
-font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4D5AE5;
-}
-
-.logo-part {
-font-weight: 400;
-font-size: 18px;
-text-align: right;
-color:  #2e2f42
+color:  #4d5ae5;
 }
 
 .nav-link {
-font-weight: 500;
 font-size: 16px;
 line-height: 24px; 
 line-height: 1.5;
@@ -48,9 +39,7 @@ color: #2e2f42;
 }
 
 .address-link {
- font-weight: 400;
 font-size: 16px;
-line-height: 24px; 
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
@@ -58,9 +47,7 @@ color: #434455;
 
 .address-link:hover,
 .address-link:focus {
-font-weight: 400;
 font-size: 16px;
-line-height: 24px; 
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #404bbf;
@@ -71,11 +58,9 @@ background-color: #2E2F42;
 }
 
 .hero-title { 
-font-weight: 700;
 font-size: 56px;
-line-height: 60px; 
-line-height: 1.07;
 letter-spacing: 0.02em;
+line-height: 1.07;
 text-align: center;
 color: #fff;
 }
@@ -86,31 +71,26 @@ text-align: center;
 }
 
 .hero-button {
-background-color: #4D5AE5;
+font-weight: 500;
 cursor: pointer;
+background-color: #404BBF;
 font-size: 16px;
-line-height: 24px; 
 line-height: 1.5;
 letter-spacing: 0.04em;
 color:  #fff;
 }
 
 .hero-button-link:focus {
-background-color: #4d5ae5; 
-border-radius: 4px;
 font-size: 16px;
-line-height: 24px; 
-line-height: 1.5;
+background-color: #404BBF;
 letter-spacing: 0.04em;
+line-height: 1.5;
 color: #fff;
 }
 
 
-
 .benefits-subtitle {
-    font-weight: 500;
     font-size: 20px;
-    line-height: 24px; 
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -119,19 +99,15 @@ color: #fff;
 
 
 .benefits-item-text {
-    font-weight: 400;
     font-size: 16px;
-    line-height: 24px; 
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
 .sellers-title {
-    font-weight: 700;
     font-size: 36px;
-    line-height: 40px; 
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
@@ -139,13 +115,10 @@ color: #fff;
 }
 
 
-
 reviews-subtitle {
-font-weight: 500;
 font-size: 20px;
-line-height: 24px; 
-line-height: 1.11;
 letter-spacing: 0.02em;
+line-height: 1.11;
 text-align: center;
 text-transform: capitalize;
 color: #2e2f42;
@@ -153,10 +126,8 @@ color: #2e2f42;
 
 
 reviews-subtitle :hover {
-font-weight: 500;
 font-size: 20px;
-line-height: 24px; 
-line-height: 1.2;
+line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
@@ -164,9 +135,8 @@ color: #2e2f42;
 }
 
 .reviews-item-text {
-font-weight: 400;
+background-color: #FFFFFF;
 font-size: 16px;
-Line-height: 24px; 
 line-height: 1.5;
 letter-spacing: 0.02em;
 text-align: center;
@@ -174,39 +144,40 @@ color: #434455;
 }
 
 .reviews-item-text :hover {
-font-weight: 400;
 font-size: 16px; 
-line-height: 24px; 
-line-height: 1.5;
 letter-spacing: 0.02em;
+line-height: 1.5;
 text-align: center;
 color: #434455;
+
+.sellers-title{
+font-size: 36px;
+line-height: 1.11;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+}
 }
 
 .reviews-subtitle {
-font-weight: 500;
 font-size: 20px;
-line-height: 24px; 
-line-height: 1.2;
 letter-spacing: 0.02em;
+line-height: 1.2;
 text-transform: capitalize;
 color: #2e2f42;
 }
 
+
 .reviews-subtitle :hover{
-font-weight: 500;
 font-size: 20px;
-line-height: 24px; 
-line-height: 1.2;
 letter-spacing: 0.02em;
+line-height: 1.2;
 text-transform: capitalize;
 color: #2e2f42;
 }
 
 .reviews-item-text {
-font-weight: 400;
 font-size: 16px;
-line-height: 24px; 
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
@@ -214,16 +185,13 @@ color: #434455;
 
 
 .reviews-item-text :hover {
-font-weight: 400;
 font-size: 16px;
-line-height: 24px; 
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
 
 .logo {
-font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
@@ -231,19 +199,20 @@ text-transform: uppercase;
 color: #2E2F42;
 }
 
-.footer logo-part {
-font-weight: 400;
-font-size: 16px;
-line-height: 24px; 
+footer{
+background-color: #2e2f42;
+}
+
+.gap footer logo-part {
+font-size: 16px; 
+color: #f4f4fd;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
 }
 
 .footer-text {
-font-weight: 400;
-font-size: 16px;
-line-height: 24px; 
+font-size: 16px; 
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #f4f4fd;
