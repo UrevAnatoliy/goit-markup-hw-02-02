@@ -19,14 +19,14 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: #4d5ae5;
+color: #4D5AE5;
 }
 
 .logo-part {
 font-weight: 400;
 font-size: 18px;
 text-align: right;
-color: #4d5ae5;
+color:  #2e2f42
 }
 
 .nav-link {
@@ -86,7 +86,8 @@ text-align: center;
 }
 
 .hero-button {
-background: #404bbf;
+background-color: #4D5AE5;
+cursor: pointer;
 font-size: 16px;
 line-height: 24px; 
 line-height: 1.5;
@@ -110,7 +111,7 @@ color: #fff;
     font-weight: 500;
     font-size: 20px;
     line-height: 24px; 
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
@@ -130,7 +131,7 @@ color: #fff;
     font-weight: 700;
     font-size: 36px;
     line-height: 40px; 
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
@@ -155,7 +156,7 @@ reviews-subtitle :hover {
 font-weight: 500;
 font-size: 20px;
 line-height: 24px; 
-line-height: 1.11;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
@@ -186,7 +187,7 @@ color: #434455;
 font-weight: 500;
 font-size: 20px;
 line-height: 24px; 
-line-height: 1.11;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;
@@ -196,7 +197,7 @@ color: #2e2f42;
 font-weight: 500;
 font-size: 20px;
 line-height: 24px; 
-line-height: 1.11;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2e2f42;
