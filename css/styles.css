@@ -82,6 +82,7 @@ text-align: center;
 
 .hero-button {
 font-weight: 500;
+background-color: #4D5AEF;
 cursor: pointer;
 font-size: 16px;
 line-height: 1.5;
@@ -210,6 +211,7 @@ background-color: #2e2f42;
 }
 
 .gap footer logo-part {
+font-weight: 400;
 font-size: 16px; 
 color: #f4f4fd; 
 line-height: 1.5;
@@ -217,6 +219,7 @@ letter-spacing: 0.02em;
 }
 
 .footer-text {
+font-weight: 400;
 font-size: 16px; 
 line-height: 1.5;
 letter-spacing: 0.02em;
