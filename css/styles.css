@@ -14,6 +14,7 @@ ul,ol {
 
 .logo {
 font-family: Raleway, sans-serif;
+font-weight: 700;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
@@ -21,12 +22,21 @@ text-transform: uppercase;
 color:  #4d5ae5;
 }
 
+.logo-part {
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2E2F42;
+}
+
 .nav-link {
-font-size: 16px;
-line-height: 24px; 
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #2e2f42;  
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .nav-link:hover,
@@ -73,7 +83,6 @@ text-align: center;
 .hero-button {
 font-weight: 500;
 cursor: pointer;
-background-color: #404BBF;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
@@ -90,6 +99,7 @@ color: #fff;
 
 
 .benefits-subtitle {
+    font-size: 56px;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -116,6 +126,7 @@ color: #fff;
 
 
 reviews-subtitle {
+font-weight: 500;
 font-size: 20px;
 letter-spacing: 0.02em;
 line-height: 1.11;
@@ -126,6 +137,7 @@ color: #2e2f42;
 
 
 reviews-subtitle :hover {
+font-weight: 500;
 font-size: 20px;
 line-height: 1.11;
 letter-spacing: 0.02em;
@@ -160,6 +172,7 @@ color: #2e2f42;
 }
 
 .reviews-subtitle {
+font-weight: 500;
 font-size: 20px;
 letter-spacing: 0.02em;
 line-height: 1.2;
@@ -169,6 +182,7 @@ color: #2e2f42;
 
 
 .reviews-subtitle :hover{
+font-weight: 500;
 font-size: 20px;
 letter-spacing: 0.02em;
 line-height: 1.2;
@@ -191,24 +205,18 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 
-.logo {
-font-size: 18px;
-line-height: 1.17;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: #2E2F42;
-}
 
 footer{
+font-weight: 500;
 background-color: #2e2f42;
 }
 
 .gap footer logo-part {
+font-weight: 500;
 font-size: 16px; 
-color: #f4f4fd;
+color: #f4f4fd; 
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #f4f4fd;
 }
 
 .footer-text {
