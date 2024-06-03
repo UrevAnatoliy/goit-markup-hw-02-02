@@ -83,7 +83,7 @@ background-color: #404BBF;
 
 .hero-button {
 font-weight: 500;
-background-color: #4D5AE5;
+background-color: #404BBF;
 cursor: pointer;
 font-size: 16px;
 line-height: 1.5;
@@ -93,7 +93,7 @@ color:  #fff;
 
 .hero-button-link:focus {
 font-size: 16px;
-background-color: #4D5AE5;
+background-color: #404BBF;
 letter-spacing: 0.04em;
 line-height: 1.5;
 }
