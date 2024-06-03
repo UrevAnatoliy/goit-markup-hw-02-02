@@ -78,12 +78,12 @@ color: #fff;
 button {
 color:  #4d5ae5;
 text-align: center;
-background-color: #404BBF;
+background: #4d5ae5;
 }
 
 .hero-button {
 font-weight: 500;
-background-color: #404BBF;
+background: #4d5ae5;
 cursor: pointer;
 font-size: 16px;
 line-height: 1.5;
@@ -93,7 +93,7 @@ color:  #fff;
 
 .hero-button-link:focus {
 font-size: 16px;
-background-color: #404BBF;
+background: #404bbf;
 letter-spacing: 0.04em;
 line-height: 1.5;
 }
@@ -107,6 +107,10 @@ line-height: 1.5;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+}
+
+.team {
+    background-color: #F4F4FD
 }
 
 .benefits {
