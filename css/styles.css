@@ -78,11 +78,12 @@ color: #fff;
 button {
 color:  #4d5ae5;
 text-align: center;
+background-color: #404BBF;
 }
 
 .hero-button {
 font-weight: 500;
-background-color: #4D5AEF;
+background-color: #404BBF;
 cursor: pointer;
 font-size: 16px;
 line-height: 1.5;
@@ -99,6 +100,7 @@ line-height: 1.5;
 
 
 .benefits-subtitle {
+    font-weight: 500;
     font-size: 56px;
     font-size: 20px;
     line-height: 1.2;
@@ -206,7 +208,7 @@ color: #434455;
 }
 
 
-footer{
+footer {
 background-color: #2e2f42;
 }
 
@@ -220,6 +222,10 @@ line-height: 1.5;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #f4f4fd;
+}
+
+.letter {
+    color: #f4f4fd;
 }
 
 .footer-text {
