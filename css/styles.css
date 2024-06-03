@@ -83,7 +83,7 @@ background-color: #404BBF;
 
 .hero-button {
 font-weight: 500;
-background-color: #404BBF;
+background-color: #4D5AE5;
 cursor: pointer;
 font-size: 16px;
 line-height: 1.5;
@@ -109,6 +109,9 @@ line-height: 1.5;
     color: #2e2f42;
 }
 
+.benefits {
+    background-color: #F4F4FD;
+}
 
 .benefits-item-text {
     font-size: 16px;
