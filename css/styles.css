@@ -81,7 +81,7 @@ text-align: center;
 background: #4d5ae5;
 }
 
-.hero-button {
+.hero-button:hover {
 font-weight: 500;
 background: #4d5ae5;
 cursor: pointer;
@@ -89,6 +89,10 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color:  #fff;
+}
+
+.hero-button:focus {
+    background-color: #404BBF;
 }
 
 .hero-button-link:focus {
@@ -166,6 +170,7 @@ color: #434455;
 }
 
 .reviews-item-text :hover {
+background-color: #FFFFFF
 font-size: 16px; 
 letter-spacing: 0.02em;
 line-height: 1.5;
