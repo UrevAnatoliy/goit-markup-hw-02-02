@@ -235,7 +235,6 @@ background-color: #2e2f42;
 }
 
 .gap footer logo-part {
-width: 264px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 font-weight: 700;
@@ -253,6 +252,7 @@ color: #f4f4fd;
 
 .footer-text {
 font-weight: 400;
+width: 264px;
 font-size: 16px; 
 line-height: 1.5;
 line-height: 24px;
